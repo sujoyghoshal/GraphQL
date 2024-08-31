@@ -1,0 +1,26 @@
+query ExampleQuery {
+  getTodos{
+   title
+   id
+   completed
+  }
+}
+
+query ExampleQuery {
+  getTodos{
+   id
+  }
+  getAllUsers {
+    name
+  }
+}
+
+query ExampleQuery {
+    getAllUsers {
+      name
+      phone
+      username
+      email
+    }
+  }
+  

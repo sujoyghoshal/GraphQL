@@ -1,0 +1,12 @@
+what is GraphQl:
+GraphQL is an open source server-side technology which was developed by Facebook to optimize RESTful API calls.
+It is an execution engine and a data query language
+
+graphql website: :https://graphql.org/learn/
+
+cmd 👍 backend: applo server
+client 👎 frontend:  npm install @apollo/client graphql
+
+docs: https://www.apollographql.com/docs/react/get-started
+
+
