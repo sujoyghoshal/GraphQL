@@ -1,6 +1,16 @@
 # GraphQL Introduction
 
-<img src="https://graphql.org/img/logo.svg" alt="GraphQL Logo" height="100">
+<p align="center">
+  <img src="https://graphql.org/img/logo.svg" alt="GraphQL" width="100" height="100" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://nodejs.org/static/images/logo.svg" alt="Node.js" width="100" height="100" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="100" height="100" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="Express.js" width="100" height="100" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="100" height="100" />
+</p>
 
 **GraphQL** is an open-source data query and manipulation language for APIs, and a runtime for fulfilling queries with your existing data. It was developed by Facebook in 2012 and released publicly in 2015 to optimize and improve the efficiency of RESTful APIs.
 
