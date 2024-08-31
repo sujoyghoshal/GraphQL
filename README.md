@@ -1,6 +1,6 @@
 # GraphQL Introduction
 
-![GraphQL Logo](https://graphql.org/img/logo.svg)
+<img src="https://graphql.org/img/logo.svg" alt="GraphQL Logo" height="100">
 
 **GraphQL** is an open-source data query and manipulation language for APIs, and a runtime for fulfilling queries with your existing data. It was developed by Facebook in 2012 and released publicly in 2015 to optimize and improve the efficiency of RESTful APIs.
 
